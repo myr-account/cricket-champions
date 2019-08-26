@@ -16,7 +16,7 @@ Among them only few got recognitions from their respective cricket boards (CB) b
 * [Dhoni](https://en.wikipedia.org/wiki/MS_Dhoni) is well known for his helicopter shot
 * [Rohit sharma](https://en.wikipedia.org/wiki/Rohit_Sharma) is referred as Hitman for his fierceful shots.
 
-![picture_collage3](picture_collage2.png)
+![picture_collage3](picture_collage3.png)
 
 ## Outstanding moments:
 Here are the few outstanding moments where cricketers got standing ovation from the audience.
