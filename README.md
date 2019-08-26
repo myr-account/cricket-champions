@@ -25,6 +25,10 @@ Here are the few outstanding moments where cricketers got standing ovation from 
 - [https://images.app.goo.gl/KMBKTmnhzSvaAPfE6](https://images.app.goo.gl/KMBKTmnhzSvaAPfE6)
 - [https://images.app.goo.gl/pF5YbyRvFqMsKbuQ8](https://images.app.goo.gl/pF5YbyRvFqMsKbuQ8)
 - [https://images.app.goo.gl/EusVojiy1PWZ4a69A](https://images.app.goo.gl/pF5YbyRvFqMsKbuQ8)
+- [https://en.wikipedia.org/wiki/Sachin_Tendulkar](https://en.wikipedia.org/wiki/Sachin_Tendulkar)
+- [https://en.wikipedia.org/wiki/MS_Dhoni](https://en.wikipedia.org/wiki/MS_Dhoni)
+- [https://en.wikipedia.org/wiki/Virat_Kohli](https://en.wikipedia.org/wiki/Virat_Kohli)
+- [https://en.wikipedia.org/wiki/Rohit_Sharma](https://en.wikipedia.org/wiki/Rohit_Sharma)
 
 
 
