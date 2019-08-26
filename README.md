@@ -19,7 +19,7 @@ Here are the few outstanding moments where cricketers got standing ovation from 
 ![standing ovation picture 1](standing_ovation1.jpg)
 ![standing ovation picture 2](standing_ovation2.jpg)
 ![standing ovation picture 3](standing_ovation3.jpg)
-![pic4](pic4.jpg)
+![picture_collage](picture_collage.png)
 
 ## References:
 - [https://images.app.goo.gl/KMBKTmnhzSvaAPfE6](https://images.app.goo.gl/KMBKTmnhzSvaAPfE6)
