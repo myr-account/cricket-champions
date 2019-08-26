@@ -9,7 +9,7 @@ If we come across the cricket world, cricketers like
 * In India sachin is called as god of cricket for passion and love towards his profession
 * Virat kohli is called as Mr. consistency for maintaining good batting average in all the tournaments.
 > Here are the few outstanding moments where cricketers got standing ovation from the audience.
-![standing ovation picture 1](cricket.jpg=250x250)
+![standing ovation picture 1](cricket.jpg){:height="700px" width="400px"}
 ![standing ovation picture 2](sachin.jpg)
 
 
