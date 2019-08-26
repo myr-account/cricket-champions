@@ -6,7 +6,7 @@ If we come across the cricket world, cricketers like
 2. M S Dhoni
 3. Virat Kohli 
 4. Rohit Sharma, got good recognition from the cricket board India
-## Known for,
+### Known for,
 * In India, *Sachin* is called as god of cricket for passion and love towards his profession
 * *Virat kohli* is called as Mr. consistency for maintaining good batting average in all the tournaments.
 * *Dhoni* is well known for his helicopter shot
