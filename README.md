@@ -6,11 +6,10 @@ If we come across the cricket world, cricketers like
 2. M S Dhoni
 3. Virat Kohli 
 4. Rohit Sharma
-got good recognition from the cricket board India
-In India sachin is called as god of cricket for consistency and love towards his profession
-In the same way cricketers like,
-* Brian Lara
-* Ricky Ponting
-and few more cricketers got recognition from their respective cricket boards
+> got good recognition from the cricket board India
+* In India sachin is called as god of cricket for consistency and love towards his profession
+* In the same way cricketers like,
+
+
 
 
