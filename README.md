@@ -10,7 +10,7 @@ If we come across the cricket world, cricketers like
 * Virat kohli is called as Mr. consistency for maintaining good batting average in all the tournaments.
 > Here are the few outstanding moments where cricketers got standing ovation from the audience.
 ![standing ovation picture 1](cricket.jpg)
-![standing ovation picture 2](sachin.jpg){:.some-css-class style="width: 200px"}
+![standing ovation picture 2](sachin.jpg)
 
 
 
