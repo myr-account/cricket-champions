@@ -12,7 +12,7 @@ If we come across the cricket world, cricketers like
 * *Rohit sharma* is referred as Hitman for his fierceful shots
 > Here are the few outstanding moments where cricketers got standing ovation from the audience.
 ***
->> ![standing ovation picture 1](standing_ovation1.jpg)
+![standing ovation picture 1](standing_ovation1.jpg)
 ![standing ovation picture 2](standing_ovation2.jpg)
 ![standing ovation picture 3](standing_ovation3.jpg)
 ![pic4](pic4.jpg)
