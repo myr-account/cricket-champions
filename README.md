@@ -1,4 +1,4 @@
-# Cricket-Champions
+# About Cricket Champions
 ## There are many cricket champions in the world who brought fame and reputation to their countries.
 ## Among them only few got recognitions from their respective cricket boards (CB) because of their tremendous play by maintaining good batting and bowling averages in their respective fields
 If we come across the cricket world, cricketers like
