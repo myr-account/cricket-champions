@@ -7,7 +7,7 @@ If we come across the cricket world, cricketers like
 3. Virat Kohli 
 4. Rohit Sharma, got good recognition from the cricket board India
 ### Known for,
-* In India, *Sachin* is called as god of cricket for passion and love towards his profession
+* In India, [Sachin](https://en.wikipedia.org/wiki/Sachin_Tendulkar) is called as god of cricket for passion and love towards his profession
 * *Virat kohli* is called as Mr. consistency for maintaining good batting average in all the tournaments.
 * *Dhoni* is well known for his helicopter shot
 * *Rohit sharma* is referred as Hitman for his fierceful shots
