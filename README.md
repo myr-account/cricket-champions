@@ -10,7 +10,7 @@ If we come across the cricket world, cricketers like
 * *Virat kohli* is called as Mr. consistency for maintaining good batting average in all the tournaments.
 * *Dhoni* is well known for his helicopter shot
 * *Rohit sharma* is referred as Hitman for his fierceful shots
-> Here are the few outstanding moments where cricketers got standing ovation from the audience.
+Here are the few outstanding moments where cricketers got standing ovation from the audience.
 ***
 ![standing ovation picture 1](standing_ovation1.jpg)
 ![standing ovation picture 2](standing_ovation2.jpg)
