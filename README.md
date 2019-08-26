@@ -16,9 +16,6 @@ Among them only few got recognitions from their respective cricket boards (CB) b
 
 ## Outstanding moments:
 Here are the few outstanding moments where cricketers got standing ovation from the audience.
-![standing ovation picture 1](standing_ovation1.jpg)
-![standing ovation picture 2](standing_ovation2.jpg)
-![standing ovation picture 3](standing_ovation3.jpg)
 ![picture_collage](picture_collage.png)
 
 ## References:
